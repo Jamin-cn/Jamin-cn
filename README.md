@@ -1,10 +1,11 @@
-### Jamin 👋
+# Jamin 💬
 
-##💻工具与语言：
+## 💻工具与语言：
 <p align="center">
   <!-- 第一组：核心开发与运维 -->
-  <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux&theme=dark" /></p>
   
+ <p align="center">
   <!-- 第二组：前端、创意与设计 -->
   <img src="https://skillicons.dev/icons?i=vue,blender,adobe_ps&theme=dark" />
 </p>
