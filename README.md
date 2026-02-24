@@ -5,7 +5,7 @@
   <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux&theme=dark" /></p>
     
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,blender,adobe_ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,blender,adobe_ps&theme=light" />
 </p>
 
 
