@@ -1,5 +1,13 @@
-## Hi there 👋
+## Jamin 👋
 
+💻工具与语言：
+<p align="center">
+  <!-- 第一组：核心开发与运维 -->
+  <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux&theme=dark" />
+  
+  <!-- 第二组：前端与创意艺术 (注：skillicons 暂无 PR 图标，故只展示 Vue 和 Blender) -->
+  <img src="https://skillicons.dev/icons?i=vue,blender&theme=dark" />
+</p>
 <!--
 **Jamin-cn/Jamin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
