@@ -14,7 +14,7 @@
   <img align="right" alt="Coding GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp; ###👋 你好！我是 <b>Jamin (杰茗)</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp; <h3>👋 你好！我是 <b>Jamin (杰茗)</b></h3>
 &nbsp;&nbsp;&nbsp;&nbsp;- 💼 **软件工程专业** | 🟢 **正在求职 (Let's Connect)！**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ❤️ 热爱 **计算机技术**、**编程** 与 **游戏开发**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合<br>
