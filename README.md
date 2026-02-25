@@ -1,12 +1,8 @@
 # Jamin 💬
 
-## 💻工具与语言：
+### 💻SKILL：
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux&theme=dark" /></p>
-    
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,blender,adobe_ps&theme=light" />
-</p>
+  <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux,vue,blender,adobe_ps&theme=dark" /></p>
 
 <p align="center">
   <picture>
