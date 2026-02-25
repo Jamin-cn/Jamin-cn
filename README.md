@@ -9,24 +9,26 @@
   <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=700&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
 </p>
 
-### 👋 你好！我是 <b>Jamin (杰茗)</b>
-<img align="right" src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Coding GIF" width="220"/>
+<!-- 右侧动态图 + 左侧介绍 -->
+<a href="https://github.com/Jamin-cn">
+  <img align="right" alt="Coding GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</a>
 
+### 👋 你好！我是 <b>Jamin (杰茗)</b>
 - 💼 **软件工程专业** | 🟢 **正在求职 (Let's Connect)！**
 - ❤️ 热爱 **计算机技术**、**编程** 与 **游戏开发**
 - 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合
 - 🏃‍♂️ 热爱 运动⚽🏎，保持充沛精力与团队协作精神
 - 🚀 **期待加入贵公司**，用技术创造价值！
 
-<br/>
+<!-- 个人专属动图展示 (已调整大小) -->
+<p align="light">
+  <img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px;"/>
+</p>
 
-<!-- 下方小图 -->
-<img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px; float: left; margin-right: 20px;"/>
-<br clear="left"/>
 ### 💻SKILL：
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux,vue,blender,adobe_ps&theme=dark" /></p>
-
 <p align="center">
   <picture>
     <!-- 深色模式下的贪吃蛇 -->
