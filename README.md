@@ -8,7 +8,26 @@
   <img src="https://skillicons.dev/icons?i=vue,blender,adobe_ps&theme=light" />
 </p>
 
-
+<p align="center">
+  <picture>
+    <!-- 深色模式 -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Jamin-cn/gh-pages/github-contribution-grid-snake-dark.svg" 
+    />
+    <!-- 浅色模式 -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Jamin-cn/gh-pages/github-contribution-grid-snake.svg" 
+    />
+    <!-- 默认图片 -->
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Jamin-cn/gh-pages/github-contribution-grid-snake-dark.svg" 
+      style="max-width: 100%;"
+    />
+  </picture>
+</p>
 
 <!--
 **Jamin-cn/Jamin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
