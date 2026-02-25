@@ -3,11 +3,27 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
   
   <!-- 浅色模式 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=F73085&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=C2185B&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
   
   <!-- 默认图片 -->
   <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
 </p>
+
+<!-- 右侧动态图 + 左侧介绍 -->
+<a href="https://github.com/Jamin-cn">
+  <img align="right" alt="Coding GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</a>
+
+### 👋 你好！我是 <b>Jamin (杰茗)</b>
+
+- 💼 **软件工程专业** | 🟢 **正在求职**
+- ❤️ 热爱 **计算机技术**、**编程** 与 **游戏开发**
+- 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合
+- 🚀 期待加入您的团队，共同构建令人惊叹的产品！
+
+<br/>
+<br/>
+<br/>
 
 ### 💻SKILL：
 <p align="center">
@@ -34,7 +50,15 @@
   </picture>
 </p>
 
+
+
+
+
+
+
+
 <!--
+
 **Jamin-cn/Jamin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
