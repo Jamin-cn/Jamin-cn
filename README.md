@@ -1,4 +1,13 @@
-# Jamin 💬
+<p align="center">
+  <!-- 深色模式 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
+  
+  <!-- 浅色模式 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=F73085&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
+  
+  <!-- 默认图片 -->
+  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=800&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
+</p>
 
 ### 💻SKILL：
 <p align="center">
