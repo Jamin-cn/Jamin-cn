@@ -9,12 +9,12 @@
     <!-- 深色模式下的贪吃蛇 -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Jamin-cn/Jamin-cn/gh-pages/github-contribution-grid-snake-dark.svg" 
+      srcset="https://raw.githubusercontent.com/Jamin-cn/Jamin-cn/gh-pages/snake-dark.svg" 
     />
     <!-- 浅色模式下的贪吃蛇 -->
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Jamin-cn/Jamin-cn/gh-pages/github-contribution-grid-snake.svg" 
+      srcset="https://raw.githubusercontent.com/Jamin-cn/Jamin-cn/gh-pages/snake.svg" 
     />
     <!-- 默认图片 (防止不支持 picture 标签的浏览器) -->
     <img 
