@@ -15,16 +15,18 @@
 </a>
 
 ### 👋 你好！我是 <b>Jamin (杰茗)</b>
-
 - 💼 **软件工程专业** | 🟢 **正在求职 (Let's Connect)！**
 - ❤️ 热爱 **计算机技术**、**编程** 与 **游戏开发**
 - 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合
 - 🏃‍♂️ 热爱 运动⚽🏎，保持充沛精力与团队协作精神
 - 🚀 **期待加入贵公司**，用技术创造价值！
 
-<br/>
-<br/>
-<br/>
+
+<!-- 个人专属动图展示 (已调整大小) -->
+<p align="left">
+  <img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px;"/>
+</p>
+
 
 ### 💻SKILL：
 <p align="center">
