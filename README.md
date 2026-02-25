@@ -8,10 +8,7 @@
   <!-- 默认图片 -->
   <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=2500&color=68F1F7&center=true&vCenter=true&width=700&height=100&lines=My+name+is+Jamin,+derived+from+my+Chinese+name%E2%80%9C%E6%9D%B0%E8%8C%97%E2%80%9D;Nice+to+meet+you!"/>
 </p>
-<!-- 个人专属动图展示 (已调整大小) -->
-<p align="light">
-  <img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px;"/>
-</p>
+
 <!-- 右侧动态图 + 左侧介绍 -->
 <a href="https://github.com/Jamin-cn">
   <img align="right" alt="Coding GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
@@ -23,9 +20,11 @@
 - 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合
 - 🏃‍♂️ 热爱 运动⚽🏎，保持充沛精力与团队协作精神
 - 🚀 **期待加入贵公司**，用技术创造价值！
-<br/>
-<br/>
 
+<!-- 个人专属动图展示 (已调整大小) -->
+<p align="light">
+  <img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px;"/>
+</p>
 ### 💻SKILL：
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux,vue,blender,adobe_ps&theme=dark" /></p>
