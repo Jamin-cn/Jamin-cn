@@ -25,6 +25,7 @@
 <p align="light">
   <img src="https://github.com/Jamin-cn/Jamin-cn/blob/gh-pages/yangcong.gif?raw=true" alt="My Personal GIF" width="100" style="border-radius: 10px;"/>
 </p>
+
 ### 💻SKILL：
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,java,redis,docker,git,linux,vue,blender,adobe_ps&theme=dark" /></p>
