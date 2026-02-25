@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  # 每天 UTC 时间 0 点运行一次
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # 允许手动触发工作流
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          # 👇 这里改成你的 GitHub 用户名
+          github_user_name: Jamin-cn
+          
+          # 生成的文件输出到 dist 目录
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          # 将生成的文件发布到 gh-pages 分支
+          publish_branch: gh-pages
