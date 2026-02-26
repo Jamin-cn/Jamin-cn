@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- ❤️ 热爱 **计算机技术**、**编程** 与 **游戏开发**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 🎨 对 **CG 艺术** 充满热情，致力于创造视觉与代码的结合<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 🏃‍♂️ 热爱 运动⚽🏎，保持充沛精力与团队协作精神<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 🚀 **期待加入贵公司**，用技术创造价值！<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 🚀 **期待加入贵公司**，励志成为一名计算机领域全栈技术人才，用技术创造价值！<br>
 
 <!-- 个人专属动图展示 (已调整大小) -->
 <p align="light">
